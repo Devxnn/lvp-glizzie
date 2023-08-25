@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lvp-glizzie
 - 👀 I’m interested in ... video games 
-- 🌱 I’m currently learning ... JS, C++, PYTHON
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... lvp glizzie#2990
+- 📫 How to reach me ... lvpglizzie
 
 <!---
 lvp-glizzie/lvp-glizzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
